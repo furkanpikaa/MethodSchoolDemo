@@ -1,0 +1,6 @@
+C:\Users\fursr\source\repos\MeyhodDemoOkul\MeyhodDemoOkul\bin\Debug\MeyhodDemoOkul.exe
+C:\Users\fursr\source\repos\MeyhodDemoOkul\MeyhodDemoOkul\bin\Debug\MeyhodDemoOkul.pdb
+C:\Users\fursr\source\repos\MeyhodDemoOkul\MeyhodDemoOkul\obj\Debug\MeyhodDemoOkul.csproj.AssemblyReference.cache
+C:\Users\fursr\source\repos\MeyhodDemoOkul\MeyhodDemoOkul\obj\Debug\MeyhodDemoOkul.csproj.CoreCompileInputs.cache
+C:\Users\fursr\source\repos\MeyhodDemoOkul\MeyhodDemoOkul\obj\Debug\MeyhodDemoOkul.exe
+C:\Users\fursr\source\repos\MeyhodDemoOkul\MeyhodDemoOkul\obj\Debug\MeyhodDemoOkul.pdb
